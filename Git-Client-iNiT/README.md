@@ -61,7 +61,7 @@ Follow these steps to use the `InstallGit.bat` script:
    .\InstallGit.bat
    ```
 
-3. **Shortcut**
+3. **Shortcut:**
    - Download the InstallGit.bat script file and double tab on it to active it.
 
 ## 📚 **Documentation**
@@ -72,7 +72,7 @@ Git is a distributed version control system that allows multiple developers to w
 
 ### **Why Use This Script?**
 
-Setting up Git manually can be time-consuming and error-prone. This script automates the installation and initial configuration process, ensuring that Git is properly set up and ready to use with minimal effort.
+Setting up Git manually can be time-consuming and error-prone. This script automates the installation and initial configuration process on windows operating system, ensuring that Git is properly set up and ready to use with minimal effort.
 
 ### **Script Details**
 
