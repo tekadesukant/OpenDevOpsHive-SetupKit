@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 </div>
@@ -38,12 +37,12 @@
 
 # Introduction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Welcome to **Apache-Tomcat-QuickSet**, your go-to solution for effortlessly installing and configuring Apache Tomcat. 
+Welcome to **Apache-Tomcat-iNiT**, your go-to solution for effortlessly installing and configuring Apache Tomcat. 
 
 ## What's Inside?
 
 - **Automated Script**: A robust script that handles the complete installation and setup of Tomcat. Simply execute it and watch your server come to life! 🛠️
-- **Weekly Updates**: The script is updated weekly. A job fetches the latest Tomcat version and updates the `amazonlinux-tomcat.sh`, `ubuntu-tomcat.sh` and `apache-tomcat.sh` file for you. 🌟
+- **Weekly Updates**: The script is updated weekly. A job fetches the latest Tomcat version and updates the  `apache-tomcat.sh` file for you. 🌟
 - **User-Friendly**: Say goodbye to manual setups. Our script ensures a smooth and quick installation process. ⏱️
 - **Ready for Action**: Get straight to coding and deployment with Tomcat fully configured and ready to use! 💻
 
@@ -120,6 +119,6 @@ We've integrated convenient commands to manage Tomcat:
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://github.com/tekadesukant/Apache-Tomcat-QuickSet/issues) or reach out to me.
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://github.com/OpenDevHive/OpenDevopsHive-SetupKit/issues) or reach out to me.
 
 Happy coding! 🚀
